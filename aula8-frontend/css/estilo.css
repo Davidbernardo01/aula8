@@ -1,0 +1,39 @@
+#total{
+    width:98%;
+    max-width:980px;
+    height:auto;
+    margin:auto;
+}
+#topo{
+    width:100%;
+    height:auto;
+    float: left;
+}
+#logo{
+    width:204px;
+    height:84px;
+    margin:18px auto;
+}
+#menu{
+    width: 100%;
+    height: 40px;
+    border-radius: 7px;
+    background-color: black;
+    text-align: center;
+    line-height: 40px
+}
+#menu a{
+    color: white;
+    margin: 0px 30px;
+    font-size:14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#menu a:hover{
+    text-decoration-color: cyan;
+}
+#banner{
+    width: 100%;
+    height: auto;
+    float:left;
+    margin: 5px auto;
+}
